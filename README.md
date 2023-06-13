@@ -1,2 +1,2 @@
-# IMDB-Movie-Sentiment-Analysis
-Sentiment Analysis Project
+# IMDB-Movie-Ratings-Sentiment-Analysis
+![sorry](sorry.png)
